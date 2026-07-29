@@ -1,11 +1,11 @@
 <p align="center">
-    <img src="https://img.shields.io/badge/zunda-shake-white">
+    <img src="https://img.shields.io/badge/nurse-office-white">
 </p>
 <p align="center">
 ୨﹒˖˚──﹕𝜗𝜚﹕──˚˖﹒୧
 </p>
 <p align="center">
-    <img width="500" src="https://i.pinimg.com/1200x/38/26/06/382606b57c4da715acbcce25f9ed0b42.jpg">
+    <img width="500" src="https://media.discordapp.net/attachments/1074266951444074539/1531900607907233875/IMG_1497.jpg?ex=6a6ae51e&is=6a69939e&hm=5480f21baec6f8e9adb5d8a8d702266692a9653e272919670536ae31467ba00a&=&format=webp&width=640&height=426">
 </p>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
