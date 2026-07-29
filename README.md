@@ -1,11 +1,14 @@
 <p align="center">
-    <img src="https://img.shields.io/badge/love-round-pink">
+    <img src="https://img.shields.io/badge/love-round-white">
 </p>
 <p align="center">
 ୨﹒˖˚──﹕𝜗𝜚﹕──˚˖﹒୧
 </p>
 <p align="center">
-    <img width="500" src="https://media.discordapp.net/attachments/1074266951444074539/1531900607907233875/IMG_1497.jpg?ex=6a6ae51e&is=6a69939e&hm=5480f21baec6f8e9adb5d8a8d702266692a9653e272919670536ae31467ba00a&=&format=webp&width=640&height=426">
+    <img width="500" src="https://media.discordapp.net/attachments/1074266951444074539/1531900557261013032/IMG_1479.jpg?ex=6a6ae512&is=6a699392&hm=343707ff9e3cad12da1f1810f06d77ce8964a38ca4e1ea02ab1c1848e3645d5c&=&format=webp&width=768&height=460">
+</p>
+<p align="center">
+"I already gave it to you. Just take it."
 </p>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
