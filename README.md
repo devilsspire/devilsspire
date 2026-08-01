@@ -14,6 +14,9 @@
 ꒰<a href="https://friedporksandwich.carrd.co/">carrd</a>‎꒱ ‎ ‎ ‎‎‎ ‎  ‎ ‎   ‎ ‎‎ ‎   ‎ ‎ ‎ ‎ ꒰<a href="https://theindomitablezono.atabook.org/">ata</a>꒱
 </p>
 <p align="center">
+꒰<a href="https://listography.com/theinflexibledeto">my interests</a>‎꒱
+</p>
+<p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31igj3l65vz2fh6jllms627de5xa&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=bdbdbd&bar_color_cover=false">
   </a>
