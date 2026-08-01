@@ -11,10 +11,7 @@
 "I already gave it to you. Just take it."
 </p>
 <p align="center">
-꒰<a href="https://friedporksandwich.carrd.co/">carrd</a>‎꒱ ‎ ‎ ‎‎‎ ‎  ‎ ‎   ‎ ‎‎ ‎   ‎ ‎ ‎ ‎ ꒰<a href="https://theindomitablezono.atabook.org/">ata</a>꒱
-</p>
-<p align="center">
-꒰<a href="https://listography.com/theinflexibledeto">my interests</a>‎꒱
+꒰<a href="https://friedporksandwich.carrd.co/">carrd</a>‎꒱ ‎ ‎ ‎‎‎  ‎ ‎  ꒰<a href="https://listography.com/theinflexibledeto">my interests</a>‎꒱ ‎ ‎‎ ‎   ‎ ‎ ‎ ꒰<a href="https://theindomitablezono.atabook.org/">ata</a>꒱
 </p>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
